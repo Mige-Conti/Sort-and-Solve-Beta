@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 1a98fd29abb6b6f418cd1879c920aa31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2991427935777185343
+    second: Businessman_Push_dir7_0
+  - first:
+      213: 7928945030911303792
+    second: Businessman_Push_dir7_1
+  - first:
+      213: -67622727611527517
+    second: Businessman_Push_dir7_2
+  - first:
+      213: 8195774740625397308
+    second: Businessman_Push_dir7_3
+  - first:
+      213: -3278554773332702000
+    second: Businessman_Push_dir7_4
+  - first:
+      213: 7074391411019064216
+    second: Businessman_Push_dir7_5
+  - first:
+      213: -7445854426059779234
+    second: Businessman_Push_dir7_6
+  - first:
+      213: 4459213060003347340
+    second: Businessman_Push_dir7_7
+  - first:
+      213: 4448249186161766555
+    second: Businessman_Push_dir7_8
+  - first:
+      213: 4746593755780321328
+    second: Businessman_Push_dir7_9
+  - first:
+      213: -51332778430625392
+    second: Businessman_Push_dir7_10
+  - first:
+      213: -3069246374580780947
+    second: Businessman_Push_dir7_11
+  - first:
+      213: -4156672895356630982
+    second: Businessman_Push_dir7_12
+  - first:
+      213: -6916439663683495688
+    second: Businessman_Push_dir7_13
+  - first:
+      213: 8351413704854197360
+    second: Businessman_Push_dir7_14
+  - first:
+      213: -7642673733766421608
+    second: Businessman_Push_dir7_15
+  - first:
+      213: 5842387073675106198
+    second: Businessman_Push_dir7_16
+  - first:
+      213: -8813930159746403350
+    second: Businessman_Push_dir7_17
+  - first:
+      213: -172350927535677673
+    second: Businessman_Push_dir7_18
+  - first:
+      213: 6322066946530771735
+    second: Businessman_Push_dir7_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 896
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3edd2bbbdfa38920800000000000000
+      internalID: 2991427935777185343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 894
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070211b0f75490e60800000000000000
+      internalID: 7928945030911303792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_2
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 892
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aec8fdcc71cf0ff0800000000000000
+      internalID: -67622727611527517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_3
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 891
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36981a14bd3db170800000000000000
+      internalID: 8195774740625397308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_4
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 890
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcc7deddcb3082d0800000000000000
+      internalID: -3278554773332702000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 635
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893addfa1894d2260800000000000000
+      internalID: 7074391411019064216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 635
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53df6d69d20ba890800000000000000
+      internalID: -7445854426059779234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_7
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 636
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b3843f6ae42ed30800000000000000
+      internalID: 4459213060003347340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_8
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 636
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90b795211b5bbd30800000000000000
+      internalID: 4448249186161766555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_9
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 637
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0309f525fd94fd140800000000000000
+      internalID: 4746593755780321328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 381
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0990f482c11a94ff0800000000000000
+      internalID: -51332778430625392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 382
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6005f21fa8d765d0800000000000000
+      internalID: -3069246374580780947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_12
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 382
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3806c056088056c0800000000000000
+      internalID: -4156672895356630982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_13
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 382
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f819bf45ced300a0800000000000000
+      internalID: -6916439663683495688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_14
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 381
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074d922548e26e370800000000000000
+      internalID: 8351413704854197360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 125
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893e4a45bb4cfe590800000000000000
+      internalID: -7642673733766421608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_16
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 126
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6971db6d614541150800000000000000
+      internalID: 5842387073675106198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_17
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 126
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3b639c731aea580800000000000000
+      internalID: -8813930159746403350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_18
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 127
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fd68b9ebfab9df0800000000000000
+      internalID: -172350927535677673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Push_dir7_19
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 127
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7138432646e7cb750800000000000000
+      internalID: 6322066946530771735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Businessman_Push_dir7_0: 2991427935777185343
+      Businessman_Push_dir7_1: 7928945030911303792
+      Businessman_Push_dir7_10: -51332778430625392
+      Businessman_Push_dir7_11: -3069246374580780947
+      Businessman_Push_dir7_12: -4156672895356630982
+      Businessman_Push_dir7_13: -6916439663683495688
+      Businessman_Push_dir7_14: 8351413704854197360
+      Businessman_Push_dir7_15: -7642673733766421608
+      Businessman_Push_dir7_16: 5842387073675106198
+      Businessman_Push_dir7_17: -8813930159746403350
+      Businessman_Push_dir7_18: -172350927535677673
+      Businessman_Push_dir7_19: 6322066946530771735
+      Businessman_Push_dir7_2: -67622727611527517
+      Businessman_Push_dir7_3: 8195774740625397308
+      Businessman_Push_dir7_4: -3278554773332702000
+      Businessman_Push_dir7_5: 7074391411019064216
+      Businessman_Push_dir7_6: -7445854426059779234
+      Businessman_Push_dir7_7: 4459213060003347340
+      Businessman_Push_dir7_8: 4448249186161766555
+      Businessman_Push_dir7_9: 4746593755780321328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

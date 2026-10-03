@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 09360c55d996c5b47a1a438dc5f90d3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7216728776494557264
+    second: Businessman_Idle_dir2_0
+  - first:
+      213: -6694975342710999734
+    second: Businessman_Idle_dir2_1
+  - first:
+      213: -821961272542206654
+    second: Businessman_Idle_dir2_2
+  - first:
+      213: -8176245493163010965
+    second: Businessman_Idle_dir2_3
+  - first:
+      213: 3641249107879779221
+    second: Businessman_Idle_dir2_4
+  - first:
+      213: 5695901993867588240
+    second: Businessman_Idle_dir2_5
+  - first:
+      213: -4457054326831749699
+    second: Businessman_Idle_dir2_6
+  - first:
+      213: 3626575339990113588
+    second: Businessman_Idle_dir2_7
+  - first:
+      213: 3646987761875510683
+    second: Businessman_Idle_dir2_8
+  - first:
+      213: 5235824543313731798
+    second: Businessman_Idle_dir2_9
+  - first:
+      213: 2309706466957068702
+    second: Businessman_Idle_dir2_10
+  - first:
+      213: 6648337047070937329
+    second: Businessman_Idle_dir2_11
+  - first:
+      213: 4969244056728167669
+    second: Businessman_Idle_dir2_12
+  - first:
+      213: 7912939522433776782
+    second: Businessman_Idle_dir2_13
+  - first:
+      213: -7687629789432693744
+    second: Businessman_Idle_dir2_14
+  - first:
+      213: -7412863372933442881
+    second: Businessman_Idle_dir2_15
+  - first:
+      213: -8543016216194986292
+    second: Businessman_Idle_dir2_16
+  - first:
+      213: 4469716048264185164
+    second: Businessman_Idle_dir2_17
+  - first:
+      213: 1008819532389214467
+    second: Businessman_Idle_dir2_18
+  - first:
+      213: 3648790506402108688
+    second: Businessman_Idle_dir2_19
+  - first:
+      213: -1398854069515426578
+    second: Businessman_Idle_dir2_20
+  - first:
+      213: -3935177644600929383
+    second: Businessman_Idle_dir2_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1145
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0582c4b1698f62460800000000000000
+      internalID: 7216728776494557264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1145
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4536b5b56ba613a0800000000000000
+      internalID: -6694975342710999734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_2
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1145
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2456efad39ec794f0800000000000000
+      internalID: -821961272542206654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_3
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1145
+        width: 19
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6451a72b04288e80800000000000000
+      internalID: -8176245493163010965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_4
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1145
+        width: 19
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bd1ed75c0588230800000000000000
+      internalID: 3641249107879779221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 889
+        width: 19
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092baeb6fa8eb0f40800000000000000
+      internalID: 5695901993867588240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 889
+        width: 19
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5639844bc5522c0800000000000000
+      internalID: -4457054326831749699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_7
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 889
+        width: 19
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d5d4bae0f245230800000000000000
+      internalID: 3626575339990113588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_8
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 889
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9569cefb04bc9230800000000000000
+      internalID: 3646987761875510683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_9
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 889
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0ac7a7ea269a840800000000000000
+      internalID: 5235824543313731798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 633
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99066a5bc9bd0020800000000000000
+      internalID: 2309706466957068702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_11
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 633
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f09bb5e153a34c50800000000000000
+      internalID: 6648337047070937329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_12
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 633
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4e083342d46f440800000000000000
+      internalID: 4969244056728167669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_13
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 633
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c70d3329860dd60800000000000000
+      internalID: 7912939522433776782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_14
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 633
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c3724ff6d005590800000000000000
+      internalID: -7687629789432693744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 377
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb25ccf8908302990800000000000000
+      internalID: -7412863372933442881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_16
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 377
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccecb43a30c117980800000000000000
+      internalID: -8543016216194986292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_17
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 377
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4546a7701f970e30800000000000000
+      internalID: 4469716048264185164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_18
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 377
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309e88e050c000e00800000000000000
+      internalID: 1008819532389214467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_19
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 377
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0155ae922ab13a230800000000000000
+      internalID: 3648790506402108688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_20
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 121
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee46ced92a5469ce0800000000000000
+      internalID: -1398854069515426578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Idle_dir2_21
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 121
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993d08d18c07369c0800000000000000
+      internalID: -3935177644600929383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Businessman_Idle_dir2_0: 7216728776494557264
+      Businessman_Idle_dir2_1: -6694975342710999734
+      Businessman_Idle_dir2_10: 2309706466957068702
+      Businessman_Idle_dir2_11: 6648337047070937329
+      Businessman_Idle_dir2_12: 4969244056728167669
+      Businessman_Idle_dir2_13: 7912939522433776782
+      Businessman_Idle_dir2_14: -7687629789432693744
+      Businessman_Idle_dir2_15: -7412863372933442881
+      Businessman_Idle_dir2_16: -8543016216194986292
+      Businessman_Idle_dir2_17: 4469716048264185164
+      Businessman_Idle_dir2_18: 1008819532389214467
+      Businessman_Idle_dir2_19: 3648790506402108688
+      Businessman_Idle_dir2_2: -821961272542206654
+      Businessman_Idle_dir2_20: -1398854069515426578
+      Businessman_Idle_dir2_21: -3935177644600929383
+      Businessman_Idle_dir2_3: -8176245493163010965
+      Businessman_Idle_dir2_4: 3641249107879779221
+      Businessman_Idle_dir2_5: 5695901993867588240
+      Businessman_Idle_dir2_6: -4457054326831749699
+      Businessman_Idle_dir2_7: 3626575339990113588
+      Businessman_Idle_dir2_8: 3646987761875510683
+      Businessman_Idle_dir2_9: 5235824543313731798
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

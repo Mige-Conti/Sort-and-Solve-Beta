@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: bb996ca9f274d034ca3215f3ced9e612
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7448189977956308130
+    second: Businessman_Damaged_dir2_0
+  - first:
+      213: -1553697297889607755
+    second: Businessman_Damaged_dir2_1
+  - first:
+      213: 9061847238273858291
+    second: Businessman_Damaged_dir2_2
+  - first:
+      213: -7387073572649841923
+    second: Businessman_Damaged_dir2_3
+  - first:
+      213: 8506854579193200700
+    second: Businessman_Damaged_dir2_4
+  - first:
+      213: 4835413396783740987
+    second: Businessman_Damaged_dir2_5
+  - first:
+      213: -7161928801311490098
+    second: Businessman_Damaged_dir2_6
+  - first:
+      213: -4464663895497752311
+    second: Businessman_Damaged_dir2_7
+  - first:
+      213: 4219163903496571838
+    second: Businessman_Damaged_dir2_8
+  - first:
+      213: -3061176422148096994
+    second: Businessman_Damaged_dir2_9
+  - first:
+      213: 4503928969933830843
+    second: Businessman_Damaged_dir2_10
+  - first:
+      213: 382978325976509476
+    second: Businessman_Damaged_dir2_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Businessman_Damaged_dir2_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 634
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b2a406da6b2a890800000000000000
+      internalID: -7448189977956308130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Damaged_dir2_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 634
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf3ec61a88207ae0800000000000000
+      internalID: -1553697297889607755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Damaged_dir2_2
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 635
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fafa2e2d0622cd70800000000000000
+      internalID: 9061847238273858291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Damaged_dir2_3
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 635
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfac78c59b7db7990800000000000000
+      internalID: -7387073572649841923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Damaged_dir2_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 379
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3047b42b2b6e0670800000000000000
+      internalID: 8506854579193200700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Damaged_dir2_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 379
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38b5718dd6da1340800000000000000
+      internalID: 4835413396783740987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Damaged_dir2_6
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 378
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf703363b7bb9c90800000000000000
+      internalID: -7161928801311490098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Damaged_dir2_7
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 378
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901485387d35a02c0800000000000000
+      internalID: -4464663895497752311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Damaged_dir2_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 122
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb4015573b7d8a30800000000000000
+      internalID: 4219163903496571838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Damaged_dir2_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 122
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cbf0b43448485d0800000000000000
+      internalID: -3061176422148096994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Damaged_dir2_10
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 122
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba3f7a098b218e30800000000000000
+      internalID: 4503928969933830843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Damaged_dir2_11
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 122
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ce08422cc905500800000000000000
+      internalID: 382978325976509476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Businessman_Damaged_dir2_0: -7448189977956308130
+      Businessman_Damaged_dir2_1: -1553697297889607755
+      Businessman_Damaged_dir2_10: 4503928969933830843
+      Businessman_Damaged_dir2_11: 382978325976509476
+      Businessman_Damaged_dir2_2: 9061847238273858291
+      Businessman_Damaged_dir2_3: -7387073572649841923
+      Businessman_Damaged_dir2_4: 8506854579193200700
+      Businessman_Damaged_dir2_5: 4835413396783740987
+      Businessman_Damaged_dir2_6: -7161928801311490098
+      Businessman_Damaged_dir2_7: -4464663895497752311
+      Businessman_Damaged_dir2_8: 4219163903496571838
+      Businessman_Damaged_dir2_9: -3061176422148096994
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

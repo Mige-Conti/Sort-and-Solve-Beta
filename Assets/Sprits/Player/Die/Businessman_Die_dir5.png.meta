@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 6fbf63619ae57d542b02620587ac1a1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3823115086190847696
+    second: Businessman_Die_dir5_0
+  - first:
+      213: -4156744061784192010
+    second: Businessman_Die_dir5_1
+  - first:
+      213: 8712238023814969202
+    second: Businessman_Die_dir5_2
+  - first:
+      213: 4199619322593013222
+    second: Businessman_Die_dir5_3
+  - first:
+      213: 2782613198870565971
+    second: Businessman_Die_dir5_4
+  - first:
+      213: -7597951812647821809
+    second: Businessman_Die_dir5_5
+  - first:
+      213: 7780723951108548380
+    second: Businessman_Die_dir5_6
+  - first:
+      213: -8340405133143701806
+    second: Businessman_Die_dir5_7
+  - first:
+      213: 4585201275992059628
+    second: Businessman_Die_dir5_8
+  - first:
+      213: 7881833641473170726
+    second: Businessman_Die_dir5_9
+  - first:
+      213: -7004213058105013208
+    second: Businessman_Die_dir5_10
+  - first:
+      213: 6870796144599642611
+    second: Businessman_Die_dir5_11
+  - first:
+      213: -6830492945288661131
+    second: Businessman_Die_dir5_12
+  - first:
+      213: 7194968871687837218
+    second: Businessman_Die_dir5_13
+  - first:
+      213: 3715302744185484522
+    second: Businessman_Die_dir5_14
+  - first:
+      213: -7309375301503219275
+    second: Businessman_Die_dir5_15
+  - first:
+      213: 4280825575173363269
+    second: Businessman_Die_dir5_16
+  - first:
+      213: 7081044463225294451
+    second: Businessman_Die_dir5_17
+  - first:
+      213: -3091349196973530809
+    second: Businessman_Die_dir5_18
+  - first:
+      213: 9039373846860129958
+    second: Businessman_Die_dir5_19
+  - first:
+      213: 1643981209321777478
+    second: Businessman_Die_dir5_20
+  - first:
+      213: -1868181821314859493
+    second: Businessman_Die_dir5_21
+  - first:
+      213: -4951980114089591269
+    second: Businessman_Die_dir5_22
+  - first:
+      213: 6351062850775156394
+    second: Businessman_Die_dir5_23
+  - first:
+      213: 2648201479523302554
+    second: Businessman_Die_dir5_24
+  - first:
+      213: 7459839192357693082
+    second: Businessman_Die_dir5_25
+  - first:
+      213: -2631413341180152383
+    second: Businessman_Die_dir5_26
+  - first:
+      213: -5694199335901666837
+    second: Businessman_Die_dir5_27
+  - first:
+      213: -791458203472121663
+    second: Businessman_Die_dir5_28
+  - first:
+      213: -8428192337783945034
+    second: Businessman_Die_dir5_29
+  - first:
+      213: -437794327072242623
+    second: Businessman_Die_dir5_30
+  - first:
+      213: 2876880418292576418
+    second: Businessman_Die_dir5_31
+  - first:
+      213: 2753651028874592016
+    second: Businessman_Die_dir5_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1400
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6a7d74aee6e0530800000000000000
+      internalID: 3823115086190847696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1400
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb83279c474056c0800000000000000
+      internalID: -4156744061784192010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_2
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1400
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2777420c25618e870800000000000000
+      internalID: 8712238023814969202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_3
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1400
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ede50bf58b084a30800000000000000
+      internalID: 4199619322593013222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_4
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1400
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3545ef126f3dd9620800000000000000
+      internalID: 2782613198870565971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_5
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1400
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e57920517ae8690800000000000000
+      internalID: -7597951812647821809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1145
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17e231a53faafb60800000000000000
+      internalID: 7780723951108548380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1146
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6002488bde04c80800000000000000
+      internalID: -8340405133143701806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_8
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1146
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceeac2f5448e1af30800000000000000
+      internalID: 4585201275992059628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1146
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d5bbaefe5e16d60800000000000000
+      internalID: 7881833641473170726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_10
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1145
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c8f7465590cce90800000000000000
+      internalID: -7004213058105013208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_11
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1147
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f13cf2c0b8f95f50800000000000000
+      internalID: 6870796144599642611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 891
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577f1431bd63531a0800000000000000
+      internalID: -6830492945288661131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_13
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 891
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22652f6711aa9d360800000000000000
+      internalID: 7194968871687837218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_14
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 891
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4b53c49286f8330800000000000000
+      internalID: 3715302744185484522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_15
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 891
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b903e7d3e1ef8a90800000000000000
+      internalID: -7309375301503219275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_16
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 892
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5469d990e2c886b30800000000000000
+      internalID: 4280825575173363269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_17
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 893
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e4a4d1c6ce44260800000000000000
+      internalID: 7081044463225294451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 640
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74124b5b8425915d0800000000000000
+      internalID: -3091349196973530809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_19
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 642
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6ed0efe9e427d70800000000000000
+      internalID: 9039373846860129958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 641
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649aa0f133890d610800000000000000
+      internalID: 1643981209321777478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_21
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 640
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e7fa41882e216e0800000000000000
+      internalID: -1868181821314859493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_22
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 639
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e34eca258074bb0800000000000000
+      internalID: -4951980114089591269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_23
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 638
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa602ae6302832850800000000000000
+      internalID: 6351062850775156394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 381
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c76a0073d40c420800000000000000
+      internalID: 2648201479523302554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_25
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 380
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a966406b83ca68760800000000000000
+      internalID: 7459839192357693082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_26
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 379
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5bbbd02875b7bd0800000000000000
+      internalID: -2631413341180152383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_27
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 379
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1e0578fd32af0b0800000000000000
+      internalID: -5694199335901666837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_28
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 379
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0b97f05fc2405f0800000000000000
+      internalID: -791458203472121663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_29
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 379
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b808b729bb090b80800000000000000
+      internalID: -8428192337783945034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 123
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1448d2a0164ace9f0800000000000000
+      internalID: -437794327072242623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 123
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a03b918f7bbce720800000000000000
+      internalID: 2876880418292576418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Businessman_Die_dir5_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 123
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f7573750fe63620800000000000000
+      internalID: 2753651028874592016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Businessman_Die_dir5_0: 3823115086190847696
+      Businessman_Die_dir5_1: -4156744061784192010
+      Businessman_Die_dir5_10: -7004213058105013208
+      Businessman_Die_dir5_11: 6870796144599642611
+      Businessman_Die_dir5_12: -6830492945288661131
+      Businessman_Die_dir5_13: 7194968871687837218
+      Businessman_Die_dir5_14: 3715302744185484522
+      Businessman_Die_dir5_15: -7309375301503219275
+      Businessman_Die_dir5_16: 4280825575173363269
+      Businessman_Die_dir5_17: 7081044463225294451
+      Businessman_Die_dir5_18: -3091349196973530809
+      Businessman_Die_dir5_19: 9039373846860129958
+      Businessman_Die_dir5_2: 8712238023814969202
+      Businessman_Die_dir5_20: 1643981209321777478
+      Businessman_Die_dir5_21: -1868181821314859493
+      Businessman_Die_dir5_22: -4951980114089591269
+      Businessman_Die_dir5_23: 6351062850775156394
+      Businessman_Die_dir5_24: 2648201479523302554
+      Businessman_Die_dir5_25: 7459839192357693082
+      Businessman_Die_dir5_26: -2631413341180152383
+      Businessman_Die_dir5_27: -5694199335901666837
+      Businessman_Die_dir5_28: -791458203472121663
+      Businessman_Die_dir5_29: -8428192337783945034
+      Businessman_Die_dir5_3: 4199619322593013222
+      Businessman_Die_dir5_30: -437794327072242623
+      Businessman_Die_dir5_31: 2876880418292576418
+      Businessman_Die_dir5_32: 2753651028874592016
+      Businessman_Die_dir5_4: 2782613198870565971
+      Businessman_Die_dir5_5: -7597951812647821809
+      Businessman_Die_dir5_6: 7780723951108548380
+      Businessman_Die_dir5_7: -8340405133143701806
+      Businessman_Die_dir5_8: 4585201275992059628
+      Businessman_Die_dir5_9: 7881833641473170726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

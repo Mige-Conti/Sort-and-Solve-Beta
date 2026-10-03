@@ -1,0 +1,297 @@
+.oculto {
+    display: none;
+}
+
+.pantalla-completa {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.85);
+    align-items: center;
+    justify-content: center;
+}
+
+#BtnPausa {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    font-size: 22px;
+    -unity-font-style: bold;
+    background-color: rgba(15, 25, 40, 0.85); /* Fondo tech oscuro */
+    color: #5bc0be; /* Texto cian */
+    border-radius: 30px; /* Lo hace perfectamente circular */
+    border-width: 3px;
+    border-color: #5bc0be;
+    transition-duration: 0.2s;
+}
+
+#BtnPausa:hover {
+    background-color: #5bc0be; /* Se invierten los colores al pasar el mouse */
+    color: #0f1928;
+    scale: 1.1; /* Pequeño efecto de "pop" o rebote */
+}
+
+/* EL FONDO TRANSLÚCIDO QUE CUBRE TODA LA PANTALLA */
+#PanelPausa {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.65); /* Negro al 65% para dejar ver el nivel */
+    justify-content: center; /* Centra el panel lateral verticalmente */
+    align-items: flex-start; /* Pega el panel lateral a la izquierda */
+    display: none; /* Oculto por defecto */
+}
+
+/* EL PANEL LATERAL ASIMÉTRICO */
+#ContenedorPausaLateral {
+    width: 35%; /* Ocupa el 35% de la pantalla */
+    height: 100%;
+    background-color: rgba(20, 25, 35, 0.95); /* Gris oscuro esmerilado */
+    border-right-width: 4px;
+    border-right-color: #5bc0be; /* Borde cian que conecta con la interfaz de Kate */
+    padding-left: 60px; /* Margen para que los botones no se peguen a la orilla del monitor */
+    justify-content: center;
+}
+
+#ContenedorPausaLateral Label {
+    color: #5bc0be;
+    font-size: 32px;
+    -unity-font-style: bold;
+    margin-bottom: 50px;
+}
+
+/* ESTILO DE LOS BOTONES DE PAUSA */
+#ContenedorPausaLateral Button {
+    background-color: transparent;
+    border-color: transparent;
+    color: white;
+    font-size: 26px;
+    -unity-text-align: middle-left;
+    margin-bottom: 25px;
+    padding-left: 10px;
+    
+    /* Transición suave al pasar el ratón */
+    transition-property: padding-left, color, border-left-color;
+    transition-duration: 0.2s;
+    
+    border-left-width: 4px;
+    border-left-color: transparent; /* Borde izquierdo invisible por defecto */
+}
+
+/* EFECTO HOVER PARA LOS BOTONES */
+#ContenedorPausaLateral Button:hover {
+    color: #5bc0be;
+    padding-left: 25px; /* Se desplazan a la derecha */
+    border-left-color: #5bc0be; /* Aparece una barra cian a la izquierda del texto */
+}
+
+/* Destacar un poco el botón de reanudar por defecto */
+#BtnReanudar {
+    -unity-font-style: bold;
+    font-size: 28px;
+}
+/* EL OVERLAY DE ALERTA */
+#PanelDerrota {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(120, 15, 15, 0.85); /* Rojo oscuro sangre/neón translúcido */
+    flex-direction: row; 
+    justify-content: center;
+    align-items: center;
+    display: none; 
+}
+
+#DerrotaKateContenedor {
+    width: 30%;
+    height: 100%;
+    justify-content: flex-end; 
+    align-items: center;
+}
+
+#RetratoKateDerrota {
+    width: 350px;
+    height: 500px;
+    -unity-background-scale-mode: scale-to-fit;
+}
+
+#DerrotaDashboard {
+    width: 50%;
+    background-color: rgba(15, 10, 15, 0.95); /* Fondo casi negro */
+    border-radius: 15px;
+    border-color: #e74c3c; /* Borde rojo alerta */
+    border-width: 3px;
+    padding: 40px;
+    margin-left: 50px;
+}
+
+#txt_TituloDerrota {
+    color: #e74c3c;
+    font-size: 45px;
+    -unity-font-style: bold;
+    margin-bottom: 10px;
+}
+
+/* El texto dinámico que ya controlas desde C# */
+#txt_Motivo {
+    color: white;
+    font-size: 26px;
+    margin-bottom: 40px;
+    white-space: normal;
+}
+
+/* EL BOTÓN REY (Fricción Cero) */
+#BtnReintentar {
+    background-color: #e74c3c; /* Rojo brillante sólido */
+    color: white;
+    font-size: 32px; /* Más grande de lo normal */
+    -unity-font-style: bold;
+    border-radius: 8px;
+    height: 70px;
+    margin-bottom: 20px;
+    transition-duration: 0.2s;
+}
+
+#BtnReintentar:hover {
+    background-color: white;
+    color: #e74c3c;
+}
+
+#BtnMenuDerrota {
+    background-color: transparent; 
+    border-color: transparent;
+    color: #aaaaaa;
+    font-size: 20px;
+}
+
+#BtnMenuDerrota:hover { color: white; }
+
+
+
+#PanelVictoria {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(10, 25, 20, 0.85); /* Un tono verde/cian muy oscuro y sutil */
+    flex-direction: row; /* Kate a la izquierda, Dashboard a la derecha */
+    justify-content: center;
+    align-items: center;
+    display: none; /* Oculto por defecto */
+}
+
+#VictoriaKateContenedor {
+    width: 30%;
+    height: 100%;
+    justify-content: flex-end; /* Pega a Kate abajo */
+    align-items: center;
+}
+
+#RetratoKateVictoria {
+    width: 350px;
+    height: 500px;
+    -unity-background-scale-mode: scale-to-fit;
+}
+
+#VictoriaDashboard {
+    width: 50%;
+    background-color: rgba(15, 25, 40, 0.95);
+    border-radius: 15px;
+    border-color: #5bc0be;
+    border-width: 3px;
+    padding: 40px;
+    margin-left: 50px;
+}
+
+#txt_TituloVictoria {
+    color: #5bc0be;
+    font-size: 45px;
+    -unity-font-style: bold;
+    margin-bottom: 10px;
+}
+
+#txt_MensajeVictoria {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 40px;
+    white-space: normal;
+}
+
+/* LA JERARQUÍA DE BOTONES DE VICTORIA */
+#BtnSiguienteNivel {
+    background-color: #5bc0be; /* Botón primario: Sólido para atraer el clic */
+    color: #0f1928;
+    font-size: 28px;
+    -unity-font-style: bold;
+    border-radius: 8px;
+    height: 60px;
+    margin-bottom: 15px;
+    transition-duration: 0.2s;
+}
+
+#BtnSiguienteNivel:hover {
+    background-color: white;
+}
+
+#BtnRejugarVictoria {
+    background-color: transparent; /* Botón secundario: Solo contorno */
+    color: #5bc0be;
+    border-color: #5bc0be;
+    border-width: 2px;
+    border-radius: 8px;
+    font-size: 24px;
+    height: 50px;
+    margin-bottom: 15px;
+}
+
+#BtnMenuVictoria {
+    background-color: transparent; /* Botón terciario: Solo texto */
+    border-color: transparent;
+    color: #aaaaaa;
+    font-size: 20px;
+}
+
+#BtnMenuVictoria:hover { color: white; }
+#BtnRejugarVictoria:hover { background-color: rgba(91, 192, 190, 0.2); }
+
+#BotonesPausa, #PanelAjustesPausa {
+    width: 100%;
+    height: 100%; /* Forzamos a que el grupo ocupe toda la altura de la barra lateral */
+    position: relative; /* Nos aseguramos de que no floten fuera de lugar */
+    flex-direction: column;
+    justify-content: center; /* ¡LA MAGIA! Centra todos los botones verticalmente */
+}
+
+#PanelAjustesPausa {
+    display: none; /* Inicia oculto */
+}
+
+#PanelAjustesPausa Label {
+    color: #5bc0be;
+    font-size: 32px;
+    -unity-font-style: bold;
+    margin-bottom: 40px;
+}
+
+/* Estilizar los sliders del menú de pausa */
+#PanelAjustesPausa Slider {
+    width: 90%;
+    margin-bottom: 25px;
+}
+
+#PanelAjustesPausa Slider Label {
+    color: white;
+    font-size: 24px;
+    min-width: 120px;
+    margin-bottom: 0px; /* Anula el margin-bottom del Label principal */
+}
+
+#BtnVolverAjustes {
+    margin-top: 30px;
+}
+
+#BtnVolverAjustes:hover {
+    color: #e74c3c; /* Rojo para retroceder */
+    border-left-color: #e74c3c;
+}

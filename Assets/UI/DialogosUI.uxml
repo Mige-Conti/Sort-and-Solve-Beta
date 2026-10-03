@@ -1,0 +1,16 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/DialogosStyle.uss?fileID=7433441132597879392&amp;guid=ba76b8fdb49d61348a2c74d1559bc803&amp;type=3#DialogosStyle"/>
+    <ui:VisualElement name="PanelDialogo" style="flex-grow: 1; position: absolute; width: 100%; height: 100%; align-content: flex-end; align-items: center;">
+        <ui:Button text="" name="BtnAvanzarDialogo" emoji-fallback-support="true" style="width: 100%; position: absolute; height: 100%; border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0); background-color: rgba(188, 188, 188, 0);"/>
+        <ui:VisualElement name="ContenedorGlobal" style="flex-grow: 1; flex-direction: row; top: auto; position: absolute; bottom: 15px;">
+            <ui:VisualElement name="ContenedorRetrato" style="flex-grow: 1; position: relative; right: auto; width: 100px;">
+                <ui:VisualElement name="RetratoKate" style="flex-grow: 1; bottom: auto; left: auto; height: 234px; width: 197px;"/>
+            </ui:VisualElement>
+            <ui:VisualElement name="ContenedorTextos" style="flex-grow: 1; position: relative; left: auto; border-left-width: 0; width: 60%;">
+                <ui:Label text="KATE (Asistente)" name="txt_NombreKate"/>
+                <ui:Label text="Label" name="txt_MensajeKate"/>
+                <ui:Label text="Clic para continuar ▼" name="txt_Indicador"/>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

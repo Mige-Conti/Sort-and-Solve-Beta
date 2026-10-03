@@ -1,0 +1,66 @@
+#PanelDialogo {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    justify-content: flex-end;
+    align-items: center;
+    padding-bottom: 30px; /* Separación del borde inferior de la pantalla */
+    display: none;
+}
+
+#ContenedorGlobal {
+    flex-direction: row;
+    width: 80%; /* Ocupa el 80% del ancho de la pantalla */
+    height: 200px;
+    background-color: rgba(30, 45, 60, 0.95); /* Azul marino grisáceo oscuro */
+    border-radius: 12px;
+    border-color: #5bc0be; /* Borde cian/teal */
+    border-width: 3px;
+    overflow: hidden; /* Evita que el retrato se salga de las esquinas redondeadas */
+}
+
+#ContenedorRetrato {
+    width: 200px;
+    height: 100%;
+    background-color: rgba(20, 30, 45, 0.8); /* Un tono ligeramente más oscuro para separarlo */
+    border-right-width: 3px;
+    border-right-color: #5bc0be; /* Línea divisoria entre retrato y texto */
+    align-items: center;
+    justify-content: flex-end; /* Pega a Kate abajo */
+}
+
+#RetratoKate {
+    width: 180px;
+    height: 180px;
+    -unity-background-scale-mode: scale-to-fit;
+}
+
+#ContenedorTextos {
+    flex-grow: 1; /* Toma todo el espacio restante de la derecha */
+    padding: 15px 25px;
+    justify-content: space-between; /* Separa el nombre arriba y el indicador abajo */
+}
+
+#txt_NombreKate {
+    color: #5bc0be; /* Color cian para el nombre */
+    font-size: 22px;
+    -unity-font-style: bold;
+    margin: 0;
+    padding: 0;
+}
+
+#txt_MensajeKate {
+    color: white;
+    font-size: 28px;
+    flex-grow: 1; /* Empuja el indicador hacia abajo */
+    margin-top: 10px;
+    white-space: normal;
+}
+
+#txt_Indicador {
+    color: #aaaaaa; /* Gris claro */
+    font-size: 18px;
+    align-self: flex-end; /* Lo pega a la derecha */
+    -unity-font-style: bold;
+    margin: 0;
+}

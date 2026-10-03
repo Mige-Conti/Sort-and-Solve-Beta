@@ -1,0 +1,108 @@
+#Fondo {
+    width: 100%;
+    height: 100%;
+    flex-direction: row; 
+    justify-content: flex-start; 
+}
+
+#ContenedorPrincipal {
+    width: 45%; /* Ligeramente más ancho para que respiren los textos */
+    height: 100%;
+    justify-content: center; 
+    align-items: flex-start; 
+    padding-left: 80px; 
+    background-color: rgba(10, 15, 20, 0.6); /* Degradado más acoplado al estilo nocturno */
+}
+
+#Logo {
+    width: 380px; 
+    height: 160px; 
+    -unity-background-scale-mode: scale-to-fit;
+    margin-bottom: 60px; 
+}
+
+/* Agrupadores de listas */
+#MenuBotones, #PanelNiveles {
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start; /* Fuerza todo a la izquierda */
+}
+
+#PanelNiveles {
+    display: none; /* Oculto por defecto */
+}
+
+/* Título de la sección de pruebas */
+#PanelNiveles Label {
+    color: #5bc0be; /* Cian en lugar de amarillo */
+    font-size: 24px;
+    margin-bottom: 25px;
+    padding-left: 10px;
+    -unity-font-style: bold;
+}
+
+/* ESTILO GLOBAL DE BOTONES (Sin cajas sólidas, listos para animar) */
+Button {
+    background-color: transparent; 
+    border-color: transparent; 
+    color: white;
+    font-size: 30px;
+    -unity-font-style: bold;
+    -unity-text-align: middle-left; 
+    margin-bottom: 20px;
+    padding-left: 10px;
+    
+    /* MAGIA DE FASE 2: Animación suave de 0.2 segundos */
+    transition-property: padding-left, color; 
+    transition-duration: 0.2s, 0.2s;
+}
+
+/* EFECTO HOVER: Cuando el ratón pasa por encima */
+Button:hover {
+    color: #5bc0be; /* Color cian de acento */
+    padding-left: 35px; /* Desplazamiento cinético a la derecha */
+}
+
+/* Color especial exclusivo para el botón de retroceder */
+#BtnVolver:hover {
+    color: #e74c3c; /* Rojo alerta */
+}
+
+/* Modifica esta línea que ya tienes para incluir el PanelAjustes */
+#MenuBotones, #PanelNiveles, #PanelAjustes {
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+/* Modifica esta línea para que ambos paneles inicien ocultos */
+#PanelNiveles, #PanelAjustes {
+    display: none; 
+}
+
+/* Estilo para los títulos de los sub-paneles */
+#PanelNiveles Label, #PanelAjustes > Label {
+    color: #5bc0be; 
+    font-size: 24px;
+    margin-bottom: 25px;
+    padding-left: 10px;
+    -unity-font-style: bold;
+}
+
+/* Estilo básico para que el Slider encaje con la tipografía */
+Slider {
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+Slider Label {
+    color: white;
+    font-size: 20px;
+    -unity-font-style: bold;
+    min-width: 100px; /* Para que ambos sliders estén alineados */
+}
+
+/* El botón de volver de los ajustes hereda la alerta roja */
+#BtnVolverAjustes:hover {
+    color: #e74c3c; 
+}

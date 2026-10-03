@@ -1,0 +1,26 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/MainMenuStyle.uss?fileID=7433441132597879392&amp;guid=1a98d597ec65b204f8100a9bf88b7178&amp;type=3#MainMenuStyle"/>
+    <ui:VisualElement name="Fondo" style="flex-grow: 1; width: 100%; height: 100%; justify-content: center; align-items: center; background-image: url(&quot;project://database/Assets/Sprits/Fondo_Menu_3.jpg?fileID=6171542017082076169&amp;guid=d94a9f9cf6f4170468eba4779e313c7e&amp;type=3#Fondo_Menu_3_0&quot;); -unity-background-scale-mode: scale-and-crop; position: absolute;"/>
+    <ui:VisualElement name="ContenedorPrincipal" style="flex-grow: 1; align-self: flex-start; align-items: flex-start; width: 40%; justify-content: center; position: relative;">
+        <ui:VisualElement name="Logo" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Sprits/Logo2.1.png?fileID=21300000&amp;guid=986b9e415fb59794685ba835b5048148&amp;type=3#Logo2.1&quot;); position: relative; align-items: flex-start;"/>
+        <ui:VisualElement name="MenuBotones" style="flex-grow: 1; width: 350px; background-size: 100% 100%; align-self: auto; justify-content: center; align-items: flex-start;">
+            <ui:Button text="Jugar" name="BtnJugar" style="width: 200px;"/>
+            <ui:Button text="Pruebas" name="BtnPruebas" style="width: 200px;"/>
+            <ui:Button text="Ajustes" name="BtnAjustes" selectable="true" focusable="true" style="width: 200px;"/>
+            <ui:Button text="Salir" name="BtnSalir" style="width: 200px; align-self: auto; align-items: stretch;"/>
+        </ui:VisualElement>
+        <ui:VisualElement name="PanelNiveles" style="flex-grow: 1; align-self: auto; align-items: flex-start; justify-content: center; width: 350px;">
+            <ui:Label text="Niveles de Prueba"/>
+            <ui:Button text="1. Movimiento" name="BtnMovimiento" style="background-color: rgba(22, 160, 133, 0);"/>
+            <ui:Button text="2. Baches y Puertas" name="BtnBaches"/>
+            <ui:Button text="3. Ácido y Ratas" name="BtnAcido"/>
+            <ui:Button text="Volver" name="BtnVolver"/>
+        </ui:VisualElement>
+        <ui:VisualElement name="PanelAjustes" style="flex-grow: 1;">
+            <ui:Label text="Ajustes de Audio" emoji-fallback-support="true"/>
+            <ui:Slider label="Música" value="100" high-value="100" name="SldVolumenMusica"/>
+            <ui:Slider label="Efectos" value="100" high-value="100" name="SldVolumenEfectos"/>
+            <ui:Button text="Volver" name="BtnVolverAjustes"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
